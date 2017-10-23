@@ -41,13 +41,7 @@ p {
   min-height: 1px;
   margin:0 2% 20px;
 }
-.second-fourth {
-  width:96%;
-  float:left;
-  position:relative;
-  min-height: 1px;
-  margin:0 2% 20px;
-}
+
 @media (min-width: 600px){
   .container {
     width: 600px;
