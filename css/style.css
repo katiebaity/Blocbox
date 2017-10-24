@@ -18,7 +18,6 @@ p {
   line-height: 19px;
   font-weight: 100;
 }
-.lower {margin-top:20px;}
 /* GRID */
 .container {
   margin-right: auto;
@@ -41,6 +40,9 @@ p {
   position:relative;
   min-height: 1px;
   margin:0 2% 20px;
+}
+.one-half.lower, .one-third.lower, .one-fourth.lower {
+  margin:20px 2% 20px;
 }
 
 @media (min-width: 600px){
