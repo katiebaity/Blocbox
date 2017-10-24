@@ -348,17 +348,18 @@ header .hero btn {
    font-size:13px;
    margin-top: 30px;
  }
-/* call-to-action */
-.call-to-action {
+/* Action */
+.action {
   margin: 10px;
   padding:4em 0;
   text-align: center;
 }
-.call-to-action .btn {
+.action .btn {
     position:absolute;
     bottom:20px;
     left:20px;
     right:20px;
+    align: center;
 }
 /*!
  * animate.css -http://daneden.me/animate
