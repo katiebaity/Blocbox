@@ -180,8 +180,8 @@ header .hero img {
      display: block;
      margin:3em auto 0;
    }
-header btn {
-  align-items: center;
+header .btn {
+  align: center;
 }
 }
 /* BUTTONS */
@@ -194,7 +194,6 @@ header btn {
    background: #2ECC71;
    border: 2px solid #2ECC71;
    box-shadow: 0px 2px 0px 0px #22894E;
-   align-items: center;
  }
  /* BENEFITS */
   .benefits {
@@ -351,8 +350,8 @@ header btn {
   padding:4em 0;
   text-align: center;
 }
-.call-to-action btn {
-  align-items: center;
+.call-to-action .btn {
+  align: center;
   margin: 10px;
 }
 /*!
