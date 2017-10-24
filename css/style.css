@@ -181,7 +181,10 @@ header .hero img {
      margin:3em auto 0;
    }
 header .btn {
-  align: center;
+    position:absolute;
+    bottom:20px;
+    left:20px;
+    right:20px;
 }
 }
 /* BUTTONS */
@@ -351,8 +354,10 @@ header .btn {
   text-align: center;
 }
 .call-to-action .btn {
-  align: center;
-  margin: 10px;
+    position:absolute;
+    bottom:20px;
+    left:20px;
+    right:20px;
 }
 /*!
  * animate.css -http://daneden.me/animate
