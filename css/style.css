@@ -7,6 +7,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: "Varela Round", Helvetica, Arial, sans-serif;
+  text-align: center;
 }
 h2 {
   font-size:28px;
@@ -189,6 +190,7 @@ header .hero img {
    background: #2ECC71;
    border: 2px solid #2ECC71;
    box-shadow: 0px 2px 0px 0px #22894E;
+   align-items: center;
  }
  /* BENEFITS */
   .benefits {
