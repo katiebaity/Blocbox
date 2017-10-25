@@ -350,9 +350,6 @@ header .hero {
   background-color:#FFFFFF;
   align-items:center;
 }
-.action h2, .action p {
-  color:#3498DB;
-}
 .action .btn {
   position:absolute;
   bottom: 20px;
