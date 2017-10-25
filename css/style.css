@@ -29,7 +29,7 @@ header {
 header nav {
  padding:1em 0;
 }
-<header img .logo {
+<header .logo {
   max-width:25%
 }
 header nav ul {
@@ -188,6 +188,8 @@ header .hero {
  header .hero img {
    display: block;
    margin:3em auto 0;
+   min-width: 70%;
+   max-width: 90%;
  }
 /* BUTTONS */
  .btn {
@@ -393,7 +395,7 @@ footer nav ul li a {
 footer .right-footer-block {
   background-color: transparent;
 }
-footer .logo{
+footer .logo {
   padding: 2.35em 0;
   margin: 0 auto;
   display: block;
@@ -412,6 +414,7 @@ footer .logo{
    }
    footer .right-footer-block {
      background-color: #3498DB;
+
    }
    footer .logo {
      padding: 2em 0 2em 1.5em;
@@ -431,3 +434,8 @@ footer .logo{
         width: 970px;
       }
     }
+  @media {
+    .container .one-third {
+      width:29.33333%;
+    }
+}
