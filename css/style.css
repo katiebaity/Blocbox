@@ -435,7 +435,7 @@ footer .logo {
       }
     }
   @media {
-    .container .one-third {
-      width:29.33333%;
+    .footer {
+      max-width: 96%;
     }
 }
