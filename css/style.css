@@ -347,17 +347,17 @@ header .hero {
   padding: 25px;
   text-align: center;
   background-size: cover;
-  background-color: #34495E;
+  background-color:#FFFFFF;
+  align-items:center;
 }
 .action h2, .action p {
   color:#FFFFFF;
 }
 .action .btn {
-    position: absolute;
-    bottom: 20px;
-    left: 20px;
-    right: 20px;
-    align-content: center;
+  position:absolute;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
 }
 /*!
  * animate.css -http://daneden.me/animate
