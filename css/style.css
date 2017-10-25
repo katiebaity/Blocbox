@@ -344,15 +344,20 @@ header .hero {
 /* Action */
 .action {
   margin: 10px;
-  padding: 4em 0;
+  padding: 25px;
   text-align: center;
+  background-size: cover;
+  background-color: #34495E;
+}
+.action h2, .action p {
+  color:#FFFFFF;
 }
 .action .btn {
     position: absolute;
     bottom: 20px;
     left: 20px;
     right: 20px;
-    align: center;
+    align-content: center;
 }
 /*!
  * animate.css -http://daneden.me/animate
