@@ -377,6 +377,7 @@ footer {
   position: relative;
   overflow: hidden;
   z-index: 0;
+  max-width: 96%;
 }
 footer p, footer nav ul {
   font-size:14px;
