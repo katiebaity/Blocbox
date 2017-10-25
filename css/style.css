@@ -29,11 +29,9 @@ header {
 header nav {
  padding:1em 0;
 }
-<header nav div .logo {
-  float: left;
-  position: relative;
+<header img .logo {
+  max-width:25%
 }
-
 header nav ul {
  display:inline;
  text-align: right;
@@ -77,6 +75,7 @@ header .hero p {
   margin:10px 0 40px;
 }
 header .hero img {
+  max-width: 50%;
   display: block;
   margin:3em auto 0;
 }
