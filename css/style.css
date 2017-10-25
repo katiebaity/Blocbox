@@ -353,7 +353,6 @@ header .hero {
   color: #3498DB;
 }
 .action .btn {
-  position:absolute;
   bottom: 20px;
   left: 20px;
   right: 20px;
