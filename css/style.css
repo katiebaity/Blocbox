@@ -375,8 +375,7 @@ footer {
      #3498DB 0%, #3498DB 50%, #34495E 50%, #34495E 100%);
   color: #FFFFFF;
   height: 150px;
-  position:absolute;
-  bottom:0;
+  position:relative;
   overflow: hidden;
   z-index: 0;
 }
