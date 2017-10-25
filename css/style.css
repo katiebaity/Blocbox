@@ -354,6 +354,7 @@ header .hero {
 /* Action */
 .action {
   margin: 10px;
+  margin-bottom: 25px;
   padding: 25px;
   text-align: center;
   background-size: auto;
@@ -418,6 +419,6 @@ footer .logo {
    footer .logo {
      padding: 2em 0 2em 1.5em;
    }
-   footer .containerfooter-nav-block {
-       max-width: width:100%;
+   footer div .containerfooter-nav-block {
+       max-width: 100%;
    }
