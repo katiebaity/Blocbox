@@ -160,34 +160,27 @@ header nav ul > li > a {
 }
 header nav ul > li.btn-outline:hover > a {
   color:#34495E;
-  header .hero {
-     text-align: center;
-     display:block;
-     position: relative;
 }
-header .hero h1 {
-     font-size:48px;
-     font-weight: normal;
-     margin:95px 0 0;
-}
-header .hero p {
-     font-size: 22px;
-     line-height: 26px;
-     font-weight: 100;
-     margin:10px 0 40px;
-}
-header .hero img {
-     display: block;
-     margin:3em auto 0;
-   }
-header .hero btn {
-      position:absolute;
-      bottom:20px;
-      left:20px;
-      right:20px;
-  }
-}
-}
+header .hero {
+   text-align: center;
+   display:block;
+   position: relative;
+ }
+ header .hero h1 {
+   font-size:48px;
+   font-weight: normal;
+   margin:95px 0 0;
+ }
+ header .hero p {
+   font-size: 22px;
+   line-height: 26px;
+   font-weight: 100;
+   margin:10px 0 40px;
+ }
+ header .hero img {
+   display: block;
+   margin:3em auto 0;
+ }
 /* BUTTONS */
  .btn {
    border-radius: 4px;
@@ -353,13 +346,6 @@ header .hero btn {
   margin: 10px;
   padding:4em 0;
   text-align: center;
-}
-.action .btn {
-    position:absolute;
-    bottom:20px;
-    left:20px;
-    right:20px;
-    align: center;
 }
 /*!
  * animate.css -http://daneden.me/animate
