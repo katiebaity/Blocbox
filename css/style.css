@@ -377,7 +377,6 @@ footer {
   position: relative;
   overflow: hidden;
   z-index: 0;
-  max-width: 96%;
 }
 footer p, footer nav ul {
   font-size:14px;
@@ -399,7 +398,7 @@ footer .right-footer-block {
 footer .logo {
   padding: 2.35em 0;
   margin: 0 auto;
-  display: block;
+  display: inline-flex;
   float: right;
 }
 @media (min-width: 992px){
@@ -415,28 +414,21 @@ footer .logo {
    }
    footer .right-footer-block {
      background-color: #3498DB;
-
    }
    footer .logo {
      padding: 2em 0 2em 1.5em;
    }
-   @media (min-width: 600px){
-     .footer {
-       width: 600px;
+   @media (min-width: 992px) {
+     footer .container {
+       width: 970px;
+     }
+     .one-half {
+       width:46%;
+     }
+     .one-third {
+       width:29.33333%;
+     }
+     .one-fourth {
+       width:21%;
      }
    }
-   @media (min-width: 768px) {
-      .footer {
-        width: 750px;
-      }
-    }
-    @media (min-width: 992px) {
-      .footer {
-        width: 970px;
-      }
-    }
-  @media {
-    .footer {
-      max-width: 96%;
-    }
-}
