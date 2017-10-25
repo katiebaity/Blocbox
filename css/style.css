@@ -347,6 +347,13 @@ header .hero {
   padding:4em 0;
   text-align: center;
 }
+.action .btn {
+    position:absolute;
+    bottom:20px;
+    left:20px;
+    right:20px;
+    align: center;
+}
 /*!
  * animate.css -http://daneden.me/animate
  * Version - 3.5.2
