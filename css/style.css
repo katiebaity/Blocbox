@@ -29,7 +29,7 @@ header {
 header nav {
  padding:1em 0;
 }
-<header .logo {
+<header nav div a .logo img {
   max-width:25%
 }
 header nav ul {
@@ -418,17 +418,6 @@ footer .logo {
    footer .logo {
      padding: 2em 0 2em 1.5em;
    }
-   @media (min-width: 992px) {
-     footer .containerfooter-nav-block {
-       width: 970px;
-     }
-     .one-half {
-       width:46%;
-     }
-     .one-third {
-       width:29.33333%;
-     }
-     .one-fourth {
-       width:21%;
-     }
+   footer .containerfooter-nav-block {
+       max-width: width:100%;
    }
