@@ -538,7 +538,10 @@ footer .logo{
    padding:20px;
  }
  .item-box h2 {
-   text-align: left; 
+   text-align: left;
+ }
+ .item-box p{
+   text-align: left;
  }
 /* Larger Mobile Devices */
  @media (min-width:460px) {
