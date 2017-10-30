@@ -537,6 +537,9 @@ footer .logo{
    overflow: hidden;
    padding:20px;
  }
+ .item-box h2 {
+   text-align: left; 
+ }
 /* Larger Mobile Devices */
  @media (min-width:460px) {
    .content {
