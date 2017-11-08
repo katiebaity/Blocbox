@@ -20,6 +20,7 @@
     position: absolute;
     top: 100%;
     right: 0; /* dropdown left or right */
+    left: 0; /* dropup left or right */
     z-index: 1000;
     display: none;
     min-width: 100px;
