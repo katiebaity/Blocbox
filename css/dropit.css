@@ -31,10 +31,10 @@
 .dropit .dropit-submenu {
     position: absolute;
     top: 100%;
-    right: 0; /* drop left or right */
+    right: 0; /* dropup left or right */
     z-index: 1000;
     display: none;
-    min-width: 100px;
+    min-width: 120px;
     list-style: none;
 	padding: 20px;
 	margin: 20px 0 0;
